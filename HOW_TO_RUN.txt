@@ -9,3 +9,4 @@ python -m homework --model knn
 
 python -m homework --model knn --n_neighbors 10
 python -m homework --model elasticnet
+#mlflow ui
